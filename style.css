@@ -24,6 +24,7 @@ body::before {
     flex-direction: row;
     gap: 20px;
     align-items: baseline;
+    justify-content: center;
 }
 
 #logo {
@@ -145,12 +146,12 @@ body::before {
         padding: 3px 7px;
     }
     #logo {
-        height: 40px;
+        height: 60px;
         width: auto;
     }
 
     #logo2 {
-        height: 60px;
+        height: 80px;
         width: auto;
     }
     #message {
