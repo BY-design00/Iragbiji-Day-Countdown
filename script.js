@@ -1,4 +1,4 @@
-const eventDate = new Date("2026-11-21T00:00:00")
+const eventDate = new Date("2026-11-28T00:00:00")
 
 const daysNum = document.getElementById("days")
 const hoursNum = document.getElementById("hours")
